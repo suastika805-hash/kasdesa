@@ -1,4 +1,4 @@
-# 🏘️ KasDesa v2 — Pencatatan Iuran RT / Kas Kelas
+# 🏘️ KasDesa — Pencatatan Iuran RT / Kas Kelas
 
 Aplikasi web lengkap untuk bendahara RT atau kelas.
 **Next.js 14 · Tailwind CSS · Supabase · Recharts**
